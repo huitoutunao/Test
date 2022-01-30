@@ -12,3 +12,4 @@ console.log('修改了2-1文件')
 
 console.log('这是新增功能A')
 console.log('这是新增功能B')
+console.log('这是新增功能C')
