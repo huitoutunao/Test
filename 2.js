@@ -6,3 +6,5 @@ const g3 = 'huitoutunao2'
 const g4 = 'huitoutunao3'
 
 const g5 = 'huitoutunao3'
+
+console.log('这是一个潜在bug')
