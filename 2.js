@@ -9,3 +9,4 @@ const g5 = 'huitoutunao3'
 
 console.log('这是新增功能A')
 console.log('这是新增功能B')
+console.log('这是新增功能C')
