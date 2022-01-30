@@ -10,5 +10,4 @@ const g6 = 'huitoutunao44'
 
 console.log('修改了2-1文件')
 
-console.log('这是一个潜在bug')
 console.log('这是新增功能A')
