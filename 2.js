@@ -6,4 +6,6 @@ const g3 = 'huitoutunao2'
 const g4 = 'huitoutunao3'
 
 const g5 = 'huitoutunao3'
-const g6 = 'huitoutunao4'
+const g6 = 'huitoutunao44'
+
+console.log('修改了2文件')
