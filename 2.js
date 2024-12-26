@@ -8,9 +8,4 @@ const g4 = 'huitoutunao3'
 const g5 = 'huitoutunao3'
 const g6 = 'huitoutunao44'
 
-console.log('修改了2-1文件')
-
-console.log('这是新增功能A')
-console.log('这是新增功能B')
-console.log('这是新增功能C')
-console.log('这是一个潜在bug')
+console.log('修改了2-1文件241227/a')
